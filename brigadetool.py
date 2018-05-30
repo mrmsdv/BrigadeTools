@@ -3,7 +3,11 @@ import sys
 import random
 import time
 import json
-import urllib,urllib2,socket,requests,threading
+import urllib
+import urllib2
+import socket
+import requests
+import threading
 
 R = "\033[1;31m";
 G = "\033[5;32m";
